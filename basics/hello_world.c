@@ -5,5 +5,3 @@ int main()
     printf("hello world\n");
     return 0;
 }
-//my second update
-//up
